@@ -1,6 +1,6 @@
 
 ![MDB Logo](https://mdbootstrap.com/img/Marketing/general/logo/medium/mdb-angular2.png)
-# Material Design for Bootstrap PRO
+# Angular Bootstrap with Material Design
 
 MDB Angular PRO is a UI Kit that includes **thousands of components**, templates, plugins and integrations that will help you get the most out of your workflow.
 
