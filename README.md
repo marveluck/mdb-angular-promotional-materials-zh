@@ -96,8 +96,7 @@ Charts are visual representations of data. They are responsive and easy to custo
 
 **[Documentation, demo & tutorial](https://mdbootstrap.com/docs/b5/angular/data/charts/)**
 
-PS. Any MDB PRO license also includes access to **[visual chart builders:](https://mdbootstrap.com/docs/standard/tools/builders/charts/)**
-![Simple Bootstrap Chart Generator](https://mdbcdn.b-cdn.net/img/press-pack/components-angular/charts-advanced.jpg)
+PS. Any MDB PRO license also includes access to **[visual chart builders](https://mdbootstrap.com/docs/standard/tools/builders/charts/)**
 
 ---
 ![Date Picker](https://mdbcdn.b-cdn.net/img/press-pack/components-angular/datepicker.jpg)
