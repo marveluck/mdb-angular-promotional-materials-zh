@@ -201,7 +201,7 @@ PS. Any MDB PRO license also includes access to **[visual modal generator](https
 
 You can achieve a very impressive effect by using our animated navbar, which is **transparent on start, and change the color after the scroll**.
 
-**[Documentation, demo & tutorial](https://mdbootstrap.com/docs/standard/navigation/headers/#section-animated-navbar)**
+**[Documentation, demo & tutorial](https://mdbootstrap.com/docs/b5/angular/navigation/headers/#section-animated-navbar)**
 
 PS. Any MDB PRO license also includes access to **[visual navbar generator](https://mdbootstrap.com/docs/standard/tools/builders/modals/)**
 
@@ -222,7 +222,7 @@ PS. Any MDB PRO license also includes access to **[visual navbar generator](http
 
 Popconfirm is a compact dialog alert. Use it to confirm/cancel a decision or display extra content like an explanation.
 
-**[Documentation, demo & tutorial](https://mdbootstrap.com/docs/standard/components/popconfirm/)**
+**[Documentation, demo & tutorial](https://mdbootstrap.com/docs/angular/components/popconfirm/)**
 
 ---
 ![Rating](https://mdbcdn.b-cdn.net/img/press-pack/components-angular/rating.jpg)
